@@ -1,0 +1,346 @@
+2025-10-19 17:14:04,080 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 17:14:04,081 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:49:27,819 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:49:27,820 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:49:27,824 [INFO]  * Restarting with stat
+2025-10-19 18:49:29,021 [WARNING]  * Debugger is active!
+2025-10-19 18:49:29,034 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 18:51:01,519 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:51:01,520 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:51:01,523 [INFO]  * Restarting with stat
+2025-10-19 18:51:02,725 [WARNING]  * Debugger is active!
+2025-10-19 18:51:02,729 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 18:51:21,578 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:51:21,578 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:51:21,583 [INFO]  * Restarting with stat
+2025-10-19 18:51:22,852 [WARNING]  * Debugger is active!
+2025-10-19 18:51:22,857 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 18:51:30,160 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:51:30,160 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:52:11,891 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:52:11,891 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:52:11,895 [INFO]  * Restarting with stat
+2025-10-19 18:52:13,343 [WARNING]  * Debugger is active!
+2025-10-19 18:52:13,348 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 18:52:38,484 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:52:38,485 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 18:52:38,487 [INFO]  * Restarting with stat
+2025-10-19 18:52:39,773 [WARNING]  * Debugger is active!
+2025-10-19 18:52:39,778 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 18:58:43,339 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 18:58:43,339 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:03:42,886 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:03:42,887 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:04:15,700 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:04:15,701 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:04:40,712 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:04:40,713 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:05:58,559 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:05:58,560 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:08:14,485 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:08:14,485 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:08:14,488 [INFO]  * Restarting with stat
+2025-10-19 19:08:15,758 [WARNING]  * Debugger is active!
+2025-10-19 19:08:15,763 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:14:11,393 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:14:11,393 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:14:11,396 [INFO]  * Restarting with stat
+2025-10-19 19:14:12,485 [WARNING]  * Debugger is active!
+2025-10-19 19:14:12,489 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:15:09,458 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:15:09,459 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:15:09,461 [INFO]  * Restarting with stat
+2025-10-19 19:15:10,683 [WARNING]  * Debugger is active!
+2025-10-19 19:15:10,688 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:18:09,864 [INFO] 127.0.0.1 - - [19/Oct/2025 19:18:09] "[33mPOST /file HTTP/1.1[0m" 404 -
+2025-10-19 19:18:23,318 [INFO] 127.0.0.1 - - [19/Oct/2025 19:18:23] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-10-19 19:18:26,453 [INFO] 127.0.0.1 - - [19/Oct/2025 19:18:26] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-10-19 19:20:27,991 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:20:28,305 [INFO]  * Restarting with stat
+2025-10-19 19:20:41,596 [INFO] 127.0.0.1 - - [19/Oct/2025 19:20:41] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-10-19 19:21:26,824 [INFO] 127.0.0.1 - - [19/Oct/2025 19:21:26] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-10-19 19:22:34,957 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:22:34,958 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:22:34,962 [INFO]  * Restarting with stat
+2025-10-19 19:22:36,563 [WARNING]  * Debugger is active!
+2025-10-19 19:22:36,570 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:22:47,177 [INFO] 127.0.0.1 - - [19/Oct/2025 19:22:47] "[33mPOST / HTTP/1.1[0m" 404 -
+2025-10-19 19:23:09,100 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\app.py', reloading
+2025-10-19 19:23:09,323 [INFO]  * Restarting with stat
+2025-10-19 19:23:10,841 [WARNING]  * Debugger is active!
+2025-10-19 19:23:10,847 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:23:20,032 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\app.py', reloading
+2025-10-19 19:23:20,339 [INFO]  * Restarting with stat
+2025-10-19 19:23:21,761 [WARNING]  * Debugger is active!
+2025-10-19 19:23:21,767 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:26:05,813 [INFO] 127.0.0.1 - - [19/Oct/2025 19:26:05] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+2025-10-19 19:26:44,820 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:26:44,821 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:26:44,824 [INFO]  * Restarting with stat
+2025-10-19 19:26:46,101 [WARNING]  * Debugger is active!
+2025-10-19 19:26:46,105 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:27:38,822 [INFO] File saved: uploads/61ad8f02c32243aeb79b348b60874a32\23dd49f8fac34faeb7936938eac51eda_logout.png
+2025-10-19 19:27:38,834 [INFO] 127.0.0.1 - - [19/Oct/2025 19:27:38] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 19:27:46,625 [INFO] 127.0.0.1 - - [19/Oct/2025 19:27:46] "[33mGET /61ad8f02c32243aeb79b348b60874a32//23dd49f8fac34faeb7936938eac51eda_logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:28:34,736 [INFO] File saved: uploads/03733994ac024fc9a2df45ee97133640\960a5fa3569c46a7915c1bd8861cd432_logout.png
+2025-10-19 19:28:34,740 [INFO] 127.0.0.1 - - [19/Oct/2025 19:28:34] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 19:28:41,574 [INFO] 127.0.0.1 - - [19/Oct/2025 19:28:41] "[33mGET /03733994ac024fc9a2df45ee97133640//960a5fa3569c46a7915c1bd8861cd432_logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:28:41,669 [INFO] 127.0.0.1 - - [19/Oct/2025 19:28:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-10-19 19:52:00,794 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:52:02,159 [INFO]  * Restarting with stat
+2025-10-19 19:52:08,810 [WARNING]  * Debugger is active!
+2025-10-19 19:52:08,822 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:52:11,045 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:52:11,427 [INFO]  * Restarting with stat
+2025-10-19 19:53:27,345 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:53:27,345 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:53:27,349 [INFO]  * Restarting with stat
+2025-10-19 19:53:29,299 [WARNING]  * Debugger is active!
+2025-10-19 19:53:29,316 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:53:33,080 [INFO] File saved: uploads/7f34ecc491344366b516fdb71f9d5e03\bf351005126b4c5ab95cac21afd23f4c_logout.png
+2025-10-19 19:53:33,105 [INFO] 127.0.0.1 - - [19/Oct/2025 19:53:33] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 19:53:44,549 [INFO] 127.0.0.1 - - [19/Oct/2025 19:53:44] "[33mGET /7f34ecc491344366b516fdb71f9d5e03//bf351005126b4c5ab95cac21afd23f4c_logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:54:48,919 [INFO] 127.0.0.1 - - [19/Oct/2025 19:54:48] "[33mPOST /upload/logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:55:44,739 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:55:44,880 [INFO]  * Restarting with stat
+2025-10-19 19:55:45,881 [WARNING]  * Debugger is active!
+2025-10-19 19:55:45,887 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:56:02,361 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 19:56:02,361 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 19:56:02,363 [INFO]  * Restarting with stat
+2025-10-19 19:56:03,261 [WARNING]  * Debugger is active!
+2025-10-19 19:56:03,264 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:56:06,099 [INFO] File saved: uploads/47b05f9a7eb64804adab77ed4bb512b3\2eee6e4a9f404360b5868f2706f699a5_logout.png
+2025-10-19 19:56:06,102 [INFO] 127.0.0.1 - - [19/Oct/2025 19:56:06] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 19:56:25,888 [INFO] 127.0.0.1 - - [19/Oct/2025 19:56:25] "[33mGET /47b05f9a7eb64804adab77ed4bb512b3//2eee6e4a9f404360b5868f2706f699a5_logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:56:29,790 [INFO] 127.0.0.1 - - [19/Oct/2025 19:56:29] "[33mPOST /upload/2eee6e4a9f404360b5868f2706f699a5_logout.png HTTP/1.1[0m" 404 -
+2025-10-19 19:57:01,892 [INFO] File saved: uploads/fb8abe48d4a44cccb63e7161798039af\e17544ef18b148e7920ab9def6dd1bbc_logout.png
+2025-10-19 19:57:01,895 [INFO] 127.0.0.1 - - [19/Oct/2025 19:57:01] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 19:57:34,816 [INFO] 127.0.0.1 - - [19/Oct/2025 19:57:34] "[31m[1mPOST /file/1 HTTP/1.1[0m" 405 -
+2025-10-19 19:57:39,231 [INFO] 127.0.0.1 - - [19/Oct/2025 19:57:39] "GET /file/1 HTTP/1.1" 200 -
+2025-10-19 19:58:21,406 [INFO] File saved: uploads\8cd3476685c44d888f5416ef9ffe2a09_shirt.png
+2025-10-19 19:58:21,431 [INFO] File updated: ID=2
+2025-10-19 19:58:21,433 [INFO] 127.0.0.1 - - [19/Oct/2025 19:58:21] "PUT /file/2 HTTP/1.1" 200 -
+2025-10-19 19:58:39,226 [INFO] File deleted from storage: uploads/7f34ecc491344366b516fdb71f9d5e03\bf351005126b4c5ab95cac21afd23f4c_logout.png
+2025-10-19 19:58:39,238 [INFO] Record deleted: ID=3
+2025-10-19 19:58:39,239 [INFO] 127.0.0.1 - - [19/Oct/2025 19:58:39] "DELETE /file/3 HTTP/1.1" 200 -
+2025-10-19 19:58:43,406 [INFO] File deleted from storage: uploads/47b05f9a7eb64804adab77ed4bb512b3\2eee6e4a9f404360b5868f2706f699a5_logout.png
+2025-10-19 19:58:43,414 [INFO] Record deleted: ID=4
+2025-10-19 19:58:43,414 [INFO] 127.0.0.1 - - [19/Oct/2025 19:58:43] "DELETE /file/4 HTTP/1.1" 200 -
+2025-10-19 19:58:49,817 [INFO] 127.0.0.1 - - [19/Oct/2025 19:58:49] "GET /file/1 HTTP/1.1" 200 -
+2025-10-19 19:58:54,051 [INFO] 127.0.0.1 - - [19/Oct/2025 19:58:54] "GET /file/2 HTTP/1.1" 200 -
+2025-10-19 19:59:28,814 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:59:28,934 [INFO]  * Restarting with stat
+2025-10-19 19:59:29,988 [WARNING]  * Debugger is active!
+2025-10-19 19:59:29,993 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:59:32,056 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:59:32,170 [INFO]  * Restarting with stat
+2025-10-19 19:59:33,033 [WARNING]  * Debugger is active!
+2025-10-19 19:59:33,036 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 19:59:36,092 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 19:59:36,228 [INFO]  * Restarting with stat
+2025-10-19 19:59:37,290 [WARNING]  * Debugger is active!
+2025-10-19 19:59:37,294 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:02:55,779 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:02:55,911 [INFO]  * Restarting with stat
+2025-10-19 20:04:08,226 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:04:08,226 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 20:04:08,228 [INFO]  * Restarting with stat
+2025-10-19 20:04:09,096 [WARNING]  * Debugger is active!
+2025-10-19 20:04:09,099 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:04:35,285 [INFO] File saved: uploads/5663ace1198144af81a2a3e9477f7caa\f99f8483534b48f38b81d074164cd52b_home.png
+2025-10-19 20:04:35,287 [INFO] 127.0.0.1 - - [19/Oct/2025 20:04:35] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 20:05:06,318 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:05:06,435 [INFO]  * Restarting with stat
+2025-10-19 20:05:07,337 [WARNING]  * Debugger is active!
+2025-10-19 20:05:07,340 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:05:10,398 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:05:10,519 [INFO]  * Restarting with stat
+2025-10-19 20:05:11,405 [WARNING]  * Debugger is active!
+2025-10-19 20:05:11,410 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:05:15,489 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:05:15,613 [INFO]  * Restarting with stat
+2025-10-19 20:05:16,519 [WARNING]  * Debugger is active!
+2025-10-19 20:05:16,522 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:05:32,807 [INFO] File deleted from storage: uploads/5663ace1198144af81a2a3e9477f7caa\f99f8483534b48f38b81d074164cd52b_home.png
+2025-10-19 20:05:32,819 [INFO] Record deleted: ID=7
+2025-10-19 20:05:32,819 [INFO] 127.0.0.1 - - [19/Oct/2025 20:05:32] "DELETE /file/7 HTTP/1.1" 200 -
+2025-10-19 20:05:41,310 [INFO] 127.0.0.1 - - [19/Oct/2025 20:05:41] "[31m[1mDELETE /upload HTTP/1.1[0m" 405 -
+2025-10-19 20:05:48,668 [INFO] File saved: uploads/34a3629492334a23bde2363ef20d021f\023908a96e8e431e9783fdd029576bec_home.png
+2025-10-19 20:05:48,669 [INFO] 127.0.0.1 - - [19/Oct/2025 20:05:48] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 20:05:56,620 [INFO] 127.0.0.1 - - [19/Oct/2025 20:05:56] "[33mGET /34a3629492334a23bde2363ef20d021f//023908a96e8e431e9783fdd029576bec_home.png HTTP/1.1[0m" 404 -
+2025-10-19 20:06:07,231 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:06:07,231 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 20:06:07,234 [INFO]  * Restarting with stat
+2025-10-19 20:06:08,127 [WARNING]  * Debugger is active!
+2025-10-19 20:06:08,130 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:06:10,318 [INFO] File saved: uploads/abced3fd088f4c96bda6a8278e55d4a0\3d6917a734fc4a45b4d5444b702b6528_home.png
+2025-10-19 20:06:10,320 [INFO] 127.0.0.1 - - [19/Oct/2025 20:06:10] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 20:07:12,046 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:07:12,171 [INFO]  * Restarting with stat
+2025-10-19 20:07:13,149 [WARNING]  * Debugger is active!
+2025-10-19 20:07:13,153 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:07:16,326 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:07:16,326 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 20:07:16,328 [INFO]  * Restarting with stat
+2025-10-19 20:07:17,210 [WARNING]  * Debugger is active!
+2025-10-19 20:07:17,214 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:07:18,606 [INFO] File saved: uploads/fd1a5222de044c6ca61652489ce3707d\edcaf93a85f84704b9907996a93dd7c2_home.png
+2025-10-19 20:07:18,610 [INFO] 127.0.0.1 - - [19/Oct/2025 20:07:18] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 20:07:27,375 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:07:27,486 [INFO]  * Restarting with stat
+2025-10-19 20:07:28,397 [WARNING]  * Debugger is active!
+2025-10-19 20:07:28,400 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:07:30,449 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\flask_file_upload_mvc\\controllers\\file_controller.py', reloading
+2025-10-19 20:07:30,565 [INFO]  * Restarting with stat
+2025-10-19 20:07:51,592 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:07:51,592 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 20:07:51,594 [INFO]  * Restarting with stat
+2025-10-19 20:07:52,463 [WARNING]  * Debugger is active!
+2025-10-19 20:07:52,466 [INFO]  * Debugger PIN: 275-000-591
+2025-10-19 20:07:56,459 [INFO] File saved: uploads/5bca4fc65331487dbb472081892bfcf2\7a76d016075e4c15ba2c2c423b8bd96b_home.png
+2025-10-19 20:07:56,460 [INFO] 127.0.0.1 - - [19/Oct/2025 20:07:56] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 20:17:43,608 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 20:17:43,608 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 20:17:43,611 [INFO]  * Restarting with stat
+2025-10-19 20:17:44,458 [WARNING]  * Debugger is active!
+2025-10-19 20:17:44,461 [INFO]  * Debugger PIN: 664-018-108
+2025-10-28 15:30:41,313 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:30:41,315 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:31:30,449 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:31:30,449 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:31:30,452 [INFO]  * Restarting with stat
+2025-10-28 15:31:31,756 [WARNING]  * Debugger is active!
+2025-10-28 15:31:31,762 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 15:31:49,617 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:31:49,618 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:31:49,621 [INFO]  * Restarting with stat
+2025-10-28 15:31:50,943 [WARNING]  * Debugger is active!
+2025-10-28 15:31:50,949 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 15:33:05,749 [INFO] 127.0.0.1 - - [28/Oct/2025 15:33:05] "[33mGET /file/7 HTTP/1.1[0m" 404 -
+2025-10-28 15:33:12,544 [INFO] 127.0.0.1 - - [28/Oct/2025 15:33:12] "GET /file/1 HTTP/1.1" 200 -
+2025-10-28 15:33:53,443 [INFO] File saved: uploads/eba7b26958754a9da5ee81f801b13b2f\18a437db2c3b4296ad5113e6d797632a_webcam-toy-photo31.jpg
+2025-10-28 15:33:53,448 [INFO] 127.0.0.1 - - [28/Oct/2025 15:33:53] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 15:34:17,200 [INFO] File saved: uploads/cac33a3b2ac64a3b886262f1f5bd700d\914771a025cc4e4a9911f291c7076d84_webcam-toy-photo11.jpg
+2025-10-28 15:34:17,203 [INFO] 127.0.0.1 - - [28/Oct/2025 15:34:17] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 15:34:29,650 [INFO] File deleted from storage: uploads/eba7b26958754a9da5ee81f801b13b2f\18a437db2c3b4296ad5113e6d797632a_webcam-toy-photo31.jpg
+2025-10-28 15:34:29,668 [INFO] Record deleted: ID=12
+2025-10-28 15:34:29,669 [INFO] 127.0.0.1 - - [28/Oct/2025 15:34:29] "DELETE /file/12 HTTP/1.1" 200 -
+2025-10-28 15:34:42,637 [INFO] 127.0.0.1 - - [28/Oct/2025 15:34:42] "GET /file/13 HTTP/1.1" 200 -
+2025-10-28 15:34:52,931 [INFO] 127.0.0.1 - - [28/Oct/2025 15:34:52] "[33mGET /file/14 HTTP/1.1[0m" 404 -
+2025-10-28 15:34:58,317 [INFO] 127.0.0.1 - - [28/Oct/2025 15:34:58] "[33mGET /file/12 HTTP/1.1[0m" 404 -
+2025-10-28 15:35:01,533 [INFO] 127.0.0.1 - - [28/Oct/2025 15:35:01] "GET /file/13 HTTP/1.1" 200 -
+2025-10-28 15:35:41,989 [INFO] File saved: uploads\1aa3071adca34d88bb43f57241012440_webcam-toy-photo31.jpg
+2025-10-28 15:35:42,001 [INFO] File updated: ID=13
+2025-10-28 15:35:42,005 [INFO] 127.0.0.1 - - [28/Oct/2025 15:35:42] "PUT /file/13 HTTP/1.1" 200 -
+2025-10-28 15:35:52,039 [INFO] 127.0.0.1 - - [28/Oct/2025 15:35:52] "GET /file/13 HTTP/1.1" 200 -
+2025-10-28 15:54:40,712 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 15:54:40,712 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 15:54:40,716 [INFO]  * Restarting with stat
+2025-10-28 15:54:42,113 [WARNING]  * Debugger is active!
+2025-10-28 15:54:42,118 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 15:57:26,880 [INFO] 127.0.0.1 - - [28/Oct/2025 15:57:26] "POST /auth/login HTTP/1.1" 200 -
+2025-10-28 16:00:21,292 [INFO] File saved: uploads/0ed4567895114472b0502088500d92db\99be833dd2804f2c96089138ef3da9d0_webcam-toy-photo2.jpg
+2025-10-28 16:00:21,305 [INFO] 127.0.0.1 - - [28/Oct/2025 16:00:21] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 18:11:27,903 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\File-Upload-Extension\\jwt-authentication\\controllers\\auth_controller.py', reloading
+2025-10-28 18:11:28,141 [INFO]  * Restarting with stat
+2025-10-28 18:11:30,673 [WARNING]  * Debugger is active!
+2025-10-28 18:11:30,677 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 18:11:37,796 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\File-Upload-Extension\\jwt-authentication\\controllers\\auth_controller.py', reloading
+2025-10-28 18:11:37,929 [INFO]  * Restarting with stat
+2025-10-28 18:11:38,899 [WARNING]  * Debugger is active!
+2025-10-28 18:11:38,902 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 18:12:40,709 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\File-Upload-Extension\\jwt-authentication\\controllers\\auth_controller.py', reloading
+2025-10-28 18:12:40,844 [INFO]  * Restarting with stat
+2025-10-28 18:16:03,169 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 18:16:03,169 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 18:16:03,171 [INFO]  * Restarting with stat
+2025-10-28 18:16:04,051 [WARNING]  * Debugger is active!
+2025-10-28 18:16:04,054 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 18:16:40,772 [INFO] 127.0.0.1 - - [28/Oct/2025 18:16:40] "[33mPOST /auth HTTP/1.1[0m" 404 -
+2025-10-28 18:17:25,828 [INFO] 127.0.0.1 - - [28/Oct/2025 18:17:25] "[33mGET /auth HTTP/1.1[0m" 404 -
+2025-10-28 18:19:10,012 [INFO] Login attempt by user: admin
+2025-10-28 18:19:10,012 [INFO] Login successful for user: admin
+2025-10-28 18:19:10,012 [INFO] 127.0.0.1 - - [28/Oct/2025 18:19:10] "POST /auth/login HTTP/1.1" 200 -
+2025-10-28 18:20:12,639 [INFO] File saved: uploads/162543f9b5f24026b7eb575cdcbbb345\b709aaee920045aab4926fb294291e43_webcam-toy-photo18.jpg
+2025-10-28 18:20:12,645 [INFO] 127.0.0.1 - - [28/Oct/2025 18:20:12] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 18:20:22,173 [INFO] File saved: uploads/e421625a4b844a478beb3c188e7f1130\d1925001e8e348d4a5cc94518dabaebd_webcam-toy-photo21.jpg
+2025-10-28 18:20:22,176 [INFO] 127.0.0.1 - - [28/Oct/2025 18:20:22] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 18:21:00,364 [INFO] File deleted from storage: uploads/162543f9b5f24026b7eb575cdcbbb345\b709aaee920045aab4926fb294291e43_webcam-toy-photo18.jpg
+2025-10-28 18:21:00,381 [INFO] Record deleted: ID=16
+2025-10-28 18:21:00,382 [INFO] 127.0.0.1 - - [28/Oct/2025 18:21:00] "DELETE /file/16 HTTP/1.1" 200 -
+2025-10-28 18:21:22,571 [INFO] File saved: uploads\1e465e9fba3146d197acb946336cf830_webcam-toy-photo27.jpg
+2025-10-28 18:21:22,580 [INFO] File updated: ID=17
+2025-10-28 18:21:22,581 [INFO] 127.0.0.1 - - [28/Oct/2025 18:21:22] "PUT /file/17 HTTP/1.1" 200 -
+2025-10-28 18:43:24,568 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 18:43:24,568 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 18:43:24,570 [INFO]  * Restarting with stat
+2025-10-28 18:43:25,517 [WARNING]  * Debugger is active!
+2025-10-28 18:43:25,521 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 18:43:45,529 [INFO] 127.0.0.1 - - [28/Oct/2025 18:43:45] "[31m[1mPUT /auth/login HTTP/1.1[0m" 405 -
+2025-10-28 18:43:57,682 [INFO] 127.0.0.1 - - [28/Oct/2025 18:43:57] "[31m[1mPUT /auth/login HTTP/1.1[0m" 405 -
+2025-10-28 18:45:15,003 [INFO] Login attempt by user: stephen
+2025-10-28 18:45:15,004 [INFO] Login successful for user: stephen
+2025-10-28 18:45:15,004 [INFO] 127.0.0.1 - - [28/Oct/2025 18:45:15] "POST /auth/login HTTP/1.1" 200 -
+2025-10-28 18:45:21,698 [INFO] Login attempt by user: admin
+2025-10-28 18:45:21,698 [WARNING] Login failed for user: admin
+2025-10-28 18:45:21,698 [INFO] 127.0.0.1 - - [28/Oct/2025 18:45:21] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-10-28 18:46:13,803 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-28 18:46:13,803 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-28 18:46:13,805 [INFO]  * Restarting with stat
+2025-10-28 18:46:14,740 [WARNING]  * Debugger is active!
+2025-10-28 18:46:14,743 [INFO]  * Debugger PIN: 125-910-043
+2025-10-28 18:46:27,402 [INFO] Login attempt by user: admin
+2025-10-28 18:46:27,402 [WARNING] Login failed for user: admin
+2025-10-28 18:46:27,403 [INFO] 127.0.0.1 - - [28/Oct/2025 18:46:27] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-10-28 18:46:35,985 [INFO] Login attempt by user: stephen
+2025-10-28 18:46:35,985 [WARNING] Login failed for user: stephen
+2025-10-28 18:46:35,985 [INFO] 127.0.0.1 - - [28/Oct/2025 18:46:35] "[31m[1mPOST /auth/login HTTP/1.1[0m" 401 -
+2025-10-28 18:46:42,635 [INFO] Login attempt by user: stephen
+2025-10-28 18:46:42,635 [INFO] Login successful for user: stephen
+2025-10-28 18:46:42,635 [INFO] 127.0.0.1 - - [28/Oct/2025 18:46:42] "POST /auth/login HTTP/1.1" 200 -
+2025-10-28 18:46:55,504 [INFO] 127.0.0.1 - - [28/Oct/2025 18:46:55] "GET /file/17 HTTP/1.1" 200 -
+2025-10-28 18:49:12,537 [INFO] File saved: uploads/e0ae8438c12a472199a2fa201718072c\39642bd3f16749ee92ca236fa2404e8d_webcam-toy-photo25.jpg
+2025-10-28 18:49:12,540 [INFO] 127.0.0.1 - - [28/Oct/2025 18:49:12] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-28 18:49:56,466 [INFO] 127.0.0.1 - - [28/Oct/2025 18:49:56] "[33mPUT /file17 HTTP/1.1[0m" 404 -
+2025-10-28 18:50:11,882 [INFO] File saved: uploads\04ce57efd6214ad7bf02a6b11c164cf2_webcam-toy-photo25.jpg
+2025-10-28 18:50:11,893 [INFO] File updated: ID=17
+2025-10-28 18:50:11,896 [INFO] 127.0.0.1 - - [28/Oct/2025 18:50:11] "PUT /file/17 HTTP/1.1" 200 -
+2025-10-28 18:50:17,542 [INFO] File deleted from storage: uploads\04ce57efd6214ad7bf02a6b11c164cf2_webcam-toy-photo25.jpg
+2025-10-28 18:50:17,550 [INFO] Record deleted: ID=17
+2025-10-28 18:50:17,551 [INFO] 127.0.0.1 - - [28/Oct/2025 18:50:17] "DELETE /file/17 HTTP/1.1" 200 -
+2025-10-28 18:50:43,886 [INFO]  * Detected change in 'C:\\Users\\Geraldyn\\OneDrive\\Documents\\File-Upload-Extension\\jwt-authentication\\controllers\\auth_controller.py', reloading
+2025-10-28 18:50:44,026 [INFO]  * Restarting with stat
+2025-10-28 18:50:46,327 [WARNING]  * Debugger is active!
+2025-10-28 18:50:46,337 [INFO]  * Debugger PIN: 125-910-043
