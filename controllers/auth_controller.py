@@ -1,11 +1,10 @@
-from flask import Blueprint, request, jsonify, current_app
-from flask_jwt_extended import create_access_token 
+from flask import Blueprint, request, jsonify, current_app  
 import logging
 
 auth_bp = Blueprint("auth", __name__, url_prefix="/auth")
 
-VALID_USERNAME = "stephen"
-VALID_PASSWORD = "shetkatalagaballabyu"
+VALID_USERNAME = "stephen" # AT VAUGHKET HENDE?!
+VALID_PASSWORD = "shetkatalagaballabyu" 
 
 @auth_bp.route("/login", methods=["POST"])
 def login():
@@ -20,14 +19,8 @@ def login():
     current_app.logger.info(f"Login attempt by user: {username}")
 
     if username == VALID_USERNAME and password == VALID_PASSWORD:
-        
-        token = create_access_token(identity=username)
-        
         current_app.logger.info(f"Login successful for user: {username}")
-        return jsonify({
-            "message": "Login successful!",
-            "token": token
-        }), 200
-    
-    current_app.logger.warning(f"Login failed for user: {username}")
-    return jsonify({"error": "Invalid username or password"}), 401
+        return jsonify({"message": "Login successful!"}), 200
+    else:
+        current_app.logger.warning(f"Login failed for user: {username}")
+        return jsonify({"error": "Invalid username or password"}), 401

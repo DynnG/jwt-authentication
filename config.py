@@ -10,5 +10,4 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     UPLOAD_FOLDER = os.getenv('UPLOAD_FOLDER', 'uploads')
     LOG_FOLDER = 'logs'
-    JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY")
     DEBUG = True
