@@ -3,13 +3,13 @@ import logging
 from flask import Flask
 from config import Config
 from extensions import db  
-
+from flask_jwt_extended import JWTManager
 
 app = Flask(__name__)
 app.config.from_object(Config)
 
 db.init_app(app)
-
+jwt = JWTManager(app)
 
 os.makedirs(app.config['LOG_FOLDER'], exist_ok=True)
 logging.basicConfig(
